@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/LoginView.unity
+- path: Assets/LoginView2.unity
   isLoaded: 1
   isActive: 1
